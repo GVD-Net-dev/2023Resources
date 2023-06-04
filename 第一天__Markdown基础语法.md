@@ -286,7 +286,7 @@ int main()
 
 链接标记格式为：[链接标记文本]:  链接地址  链接title(可忽略)
 
-这是自动链接：直接使用`<>`括起来<http://connorlin.github.io>
+这是自动链接：直接使用`<>`括起来<http://www.baidu.com>
 
 这是图片：![][avatar]
 
