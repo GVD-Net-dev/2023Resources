@@ -15,6 +15,7 @@
 |  3   | 软件 | [SocketTool](https://cowtransfer.com/s/f6c22c1e530a44)       |         TCP、UDP socket调试助手         |
 |  4   | 书籍 | [C++Primer Plus（第六版）](https://cowtransfer.com/s/333d21b0efdb46) |                 C++书籍                 |
 |  5   | 书籍 | [算法笔记 胡凡](https://cowtransfer.com/s/ccd15457146145)    |          C++、C及算法入门书籍           |
+|  6  | 网站 | [C++ Basic](https://hackingcpp.com/cpp/lang/control_flow_basics.html)| 一个学C++的特别好的网站（前提你英语阅读能力过关）|
 
 
 ## 一. 通识课上课代码
