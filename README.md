@@ -1,12 +1,21 @@
 # 2023年小学期课程资源
 **目录**
+* [软件及书籍](#p0)
 * [一. 通识课上课代码](#p1)
 * [二. QT上课的工程代码](#p2)
 * [三. Python组别上课代码](#p3)
 
-| 课程时间 | 教师 | 分类 |
-| -----   |  ----| -----|
-| 2023年6月26日-2023年7月7日| 郑钦元| C++ QT工程师/Python大数据分析师|
+
+## 软件及书籍
+
+| 序号 | 分类 | 名称                                                         |                功能说明                 |
+| :--: | :--: | ------------------------------------------------------------ | :-------------------------------------: |
+|  1   | 软件 | [Navicat15安装包和破解工具](https://cowtransfer.com/s/8c1f19cb83a14f) |            数据库可视化工具             |
+|  2   | 软件 | [typora1.2.4-Windows（破解包）](https://cowtransfer.com/s/0acc7f2e4eb948) | markdown编辑器，可以导出为pdf等其他格式 |
+|  3   | 软件 | [SocketTool](https://cowtransfer.com/s/f6c22c1e530a44)       |         TCP、UDP socket调试助手         |
+|  4   | 书籍 | [C++Primer Plus（第六版）](https://cowtransfer.com/s/333d21b0efdb46) |                 C++书籍                 |
+|  5   | 书籍 | [算法笔记 胡凡](https://cowtransfer.com/s/ccd15457146145)    |          C++、C及算法入门书籍           |
+
 
 ## 一. 通识课上课代码
 * [第一天_Markdown基础](https://github.com/GVD-Net-dev/2023Resources/blob/main/%E7%AC%AC%E4%B8%80%E5%A4%A9__Markdown%E5%9F%BA%E7%A1%80%E8%AF%AD%E6%B3%95.md)
