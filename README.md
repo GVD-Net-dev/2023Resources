@@ -1,4 +1,8 @@
-# 2023Resources
+# 2023年小学期课程资源
+**目录**
+* [一. 通识课上课代码](#p1)
+* [二. QT上课的工程代码](#p2)
+* [三. Python组别上课代码](#p3)
 
 ## 一. 通识课上课代码
 * [第一天_Markdown基础](https://github.com/GVD-Net-dev/2023Resources/blob/main/%E7%AC%AC%E4%B8%80%E5%A4%A9__Markdown%E5%9F%BA%E7%A1%80%E8%AF%AD%E6%B3%95.md)
