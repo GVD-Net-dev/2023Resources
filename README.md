@@ -1,9 +1,10 @@
 # <h2 align="center">2023年小学期课程资源</h2>
 **目录**
 * [软件及书籍](#p0)
-* [一. 通识课上课代码](#p1)
-* [二. QT上课的工程代码](#p2)
-* [三. Python组别上课代码](#p3)
+* [环境安装](#p1)
+* [通识课上课代码](#p1)
+* [QT上课的工程代码](#p2)
+* [Python组别上课代码](#p3)
 
 
 ## 软件及书籍
@@ -17,6 +18,8 @@
 |  5   | 书籍 | [算法笔记 胡凡](https://cowtransfer.com/s/ccd15457146145)    |          C++、C及算法入门书籍           |
 |  6  | 网站 | [C++ Basic](https://hackingcpp.com/cpp/lang/control_flow_basics.html)| 一个学C++的特别好的网站（前提你英语阅读能力过关）|
 |  7  |网站 | [Python Basic learning](https://www.codecademy.com/learn/learn-python-3/modules/learn-python3-hello-world/cheatsheet)|一个学Python特别好的网站（前提是你英语阅读能力过关）|
+## 软件安装
+本课程Python用的版本是3.10，使用PyCharm作为集成开发环境，Python组环境安装请点击[这里](https://github.com/SlightQTMQ/2023Resources/blob/main/python%E7%8E%AF%E5%A2%83%E5%AE%89%E8%A3%85/Python%E7%8E%AF%E5%A2%83%E5%AE%89%E8%A3%85.md)
 
 
 ## 一. 通识课上课代码
