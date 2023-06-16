@@ -20,6 +20,7 @@
 |  7   | 书籍 | [算法笔记 胡凡](https://cowtransfer.com/s/ccd15457146145)    |                 C++、C及算法入门书籍                 |
 |  8   | 网站 | [C++ Basic](https://hackingcpp.com/cpp/lang/control_flow_basics.html) |  一个学C++的特别好的网站（前提你英语阅读能力过关）   |
 |  9   | 网站 | [Python Basic learning](https://www.codecademy.com/learn/learn-python-3/modules/learn-python3-hello-world/cheatsheet) | 一个学Python特别好的网站（前提是你英语阅读能力过关） |
+|10|网站| [Learn Git Branching](https://learngitbranching.js.org/?locale=zh_CN)|一个学习Git的网站|
 ## 软件安装
 本课程Python用的版本是3.10，使用PyCharm作为集成开发环境，Python组环境安装请点击[这里](https://github.com/SlightQTMQ/2023Resources/blob/main/python%E7%8E%AF%E5%A2%83%E5%AE%89%E8%A3%85/Python%E7%8E%AF%E5%A2%83%E5%AE%89%E8%A3%85.md)
 
